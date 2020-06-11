@@ -1,5 +1,8 @@
 # RESTful-API
-Implementation of RESTful Api using Spring Boot and Bearer
+Implementation of RESTful API using Spring Boot and Bearer
+
+# Quick Demo
+[YouTube Video](https://www.youtube.com/watch?v=fTmU94QvHcQ&feature=youtu.be)
 
 # Dependencies
 - Maven
@@ -8,9 +11,6 @@ Implementation of RESTful Api using Spring Boot and Bearer
 - Spring Web
 - jjwt
 - Bearer
-
-# Quick Demo
-[YouTube Video](https://www.youtube.com/watch?v=fTmU94QvHcQ&feature=youtu.be)
 
 # Description
 
